@@ -5,6 +5,14 @@
 }
 
 header {
-  text-align: center;
   font-size: 2rem;
+}
+
+header > h1 {
+  text-align: center;
+}
+
+body > div > div > div > img {
+  width: 80vw;
+  margin: 1rem;
 }
